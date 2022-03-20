@@ -1,8 +1,10 @@
+import '@testing-library/jest-dom';
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('renders el texto Integración Google Maps' ,()=>{
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  const textoweb = screen.getByText('Integración Google Maps');
+  expect(textoweb).toBeInTheDocument();
+
 });

@@ -1,0 +1,48 @@
+.container_principal{
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.container_pruebas{
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.googleMaps{
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 200px;
+}
+.btn_principal{
+    border: 0;
+    border-radius: 8px;
+    font-smooth: bold;
+    padding: 20px;
+    background-color:rgb(30, 28, 48);
+    color: rgb(247, 239, 239);
+    margin-right: 20px;
+
+}
+.btn_pruebas{
+    border: 0;
+    border-radius: 8px;
+    font-smooth: bold;
+    padding: 20px;
+    background-color:rgb(30, 28, 48);
+    color: rgb(247, 239, 239);
+    margin-right: 20px;
+
+}
+.btn_api{
+    border: 0;
+    border-radius: 8px;
+    font-smooth: bold;
+    padding: 20px;
+    background-color:rgb(30, 28, 48);
+    color: rgb(247, 239, 239);
+    margin-left: 5px;
+
+}

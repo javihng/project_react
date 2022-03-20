@@ -53,7 +53,7 @@ export class MapContainer extends Component {
  
   render() {
     return (
-      <div id='googleMaps'>
+      <div className='googleMaps'>
         <PlacesAutocomplete
           value={this.state.address}
           onChange={this.handleChange}
